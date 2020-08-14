@@ -5,7 +5,7 @@
   weight = 1
  
 [[main]]
-  name = "展厅"
+  name = "图集"
   url = "#gallery"
   weight = 2
 
