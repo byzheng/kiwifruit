@@ -1,0 +1,17 @@
+
+[[main]]
+  name = "简介"
+  url = "#introduction"
+  weight = 1
+ 
+[[main]]
+  name = "展厅"
+  url = "#gallery"
+  weight = 2
+
+
+[[main]]
+  name = "联系"
+  url = "#contact"
+  weight = 10
+
