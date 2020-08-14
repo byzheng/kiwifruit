@@ -29,15 +29,9 @@ hero_media = "homepage.png"
 
   # Text color (true=light or false=dark).
   text_color_light = false
-[cta]
-  url = "#gallery"
-  label = "展厅"
-  icon_pack = "fas"
-  icon = "download"
 
-
-  
 +++
 
-**自家种植的猕猴桃，放心又好吃!**
+**自家种植的猕猴桃，放心又好吃！8月底开始。。。**
+
 
