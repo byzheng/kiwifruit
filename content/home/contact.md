@@ -22,4 +22,4 @@ email_form = 0
   captcha = false  # Enable CAPTCHA challenge to reduce spam?
 +++
 
-请通过朋友圈联系。。。
+请通过微信联系。。。
